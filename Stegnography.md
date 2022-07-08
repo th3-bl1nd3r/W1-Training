@@ -13,5 +13,13 @@
       root@8f84b464399e:/data/data# check_jpg.sh sample.jpg
       root@8f84b464399e:/data/data# cat steganopayload104965.txt
       this_is_my_cat
-      
-      
+ 
+ ### General screening tools
+ 
+ ### Tools detecting steganography
+ 
+ ### Tools actually doing steganography
+ 
+ ### Steganography GUI tools
+ 
+
