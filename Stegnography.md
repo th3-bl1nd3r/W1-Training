@@ -16,6 +16,10 @@
  
  ### General screening tools
  
+ ![image](https://user-images.githubusercontent.com/92283038/178107965-a3b76bc1-a301-4aab-adba-54bc9431b3d7.png)
+![image](https://user-images.githubusercontent.com/92283038/178108278-c4fd9930-f343-4fde-9876-f94e8caa2a98.png)
+![image](https://user-images.githubusercontent.com/92283038/178108363-2d9f75de-fb92-4bf7-b689-62626451205c.png)
+
  ### Tools detecting steganography
  
  ### Tools actually doing steganography
