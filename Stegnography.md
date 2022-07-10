@@ -23,11 +23,17 @@
  ### Tools detecting steganography
  
 ![image](https://user-images.githubusercontent.com/92283038/178110304-4a6fe6f3-574c-4a04-a41d-019b68d868e0.png)
+![image](https://user-images.githubusercontent.com/92283038/178128021-162924df-0004-4ca5-8ddc-17d57ad3a7b9.png)
+![image](https://user-images.githubusercontent.com/92283038/178128292-6a44fa67-8de9-471f-b7f0-e9869ee801cd.png)
 
 
- 
  ### Tools actually doing steganography
  
- ### Steganography GUI tools
+ ![image](https://user-images.githubusercontent.com/92283038/178128326-1811ffbf-d9d3-4124-8c93-6476867db6c7.png)
+![image](https://user-images.githubusercontent.com/92283038/178128338-7cfa7dc1-e708-4f45-9e72-1880c2446d03.png)
+
  
+ ### Steganography GUI tools
+ ![image](https://user-images.githubusercontent.com/92283038/178128406-f7acbf7d-2cc0-497c-87bd-2ca335557c0c.png)
+
 
