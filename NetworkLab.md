@@ -141,5 +141,28 @@ for i in f:
 Kết quả của script : 
 ![image](https://user-images.githubusercontent.com/92283038/185406792-30c125d2-075d-4fe5-a992-65949dac7ec7.png)
 
+# KB06 
+
+![image](https://user-images.githubusercontent.com/92283038/185409887-53520c13-5b67-4a24-a8cf-98bbcbfe8a48.png)
+
+Sau 1 hồi stuck ở bài này thì a Stirring có hint là để ý các DNS Query Respond và để ý các subdomain. Filter các gói tin DNS thì mình nhìn thấy rất nhiều tên subdomain
+theo format {b64}.evil.corp. Mình sử dụng tshark để dump data ra và viết một script python để ghép các đoạn base64 lại và decode.
+
+```
+ tshark -r Nandemonaiya_kb06.pcapng -Y "dns && ip.src == 192.168.196.1" > kb06.txt
+ ```
+ 
+ 
+ ```py
+ import base64
+with open('kb06.txt','r') as file:
+    f = file.readlines()
+res = ""
+for i in f:
+    res += (i.split("A ")[1].split(".evil")[0])
+
+# print(base64.b64decode(res))
+print(res)
+```
 
 
