@@ -78,7 +78,7 @@ Ok, giờ ta chỉ việc bruteforce số lần lặp **cnt** là có thể deco
 khi cố decode bằng python trực tiếp trên code của đề, cảm ơn anh bạn Jinn#8802 đã giúp mình viết lại bằng python3.
 
 Script Solve : 
-```
+```py
 import base64
 import string
 import random
